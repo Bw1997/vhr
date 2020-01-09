@@ -2,6 +2,7 @@ package org.javaboy.vhr.mapper;
 
 import org.apache.ibatis.annotations.Param;
 import org.javaboy.vhr.model.Employee;
+import org.javaboy.vhr.model.Employeetrain;
 
 import java.util.Date;
 import java.util.List;
